@@ -4,3 +4,4 @@ This is the open source project for the COLA website
 
 ## Authors
 Joel
+Maria
