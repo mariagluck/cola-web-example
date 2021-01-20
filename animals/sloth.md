@@ -7,7 +7,7 @@
 |    `mkdir`   |  make directory                                                |
 |--------------|----------------------------------------------------------------|
 |    `less`    | writes the contents of a file onto the screen a page at a time.| 
-|--------------|-----------------------------------------------------------------
+|--------------|----------------------------------------------------------------|
 |     `cd`     | change directory.                                              |
 |--------------|----------------------------------------------------------------|
 |    `cat`     |Displays the contents of a file on teh screen.                  |
@@ -23,7 +23,7 @@
 
 
   Author: Maria Glück 
-x-special/nautilus-clipboard
-copy
-file:///home/dci/cola-web-example/animals/sloth.jpeg
+  
+  ![Image of Sloth](./sloth.jpeg)
+
 
